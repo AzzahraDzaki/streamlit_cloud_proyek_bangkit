@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Penyewaan Sepeda✨
 
 ## Setup Environment - Shell/Terminal
@@ -11,3 +12,6 @@ pip install -r requirements.txt # Instal dependensi dari file requirements.txt
 ## Run steamlit app
 
 streamlit run dashboard.py
+=======
+# proyek_analisis_data_bangkit
+>>>>>>> 767cbf63d68a9b5923f3d32f0d9cc2db06165bc9
